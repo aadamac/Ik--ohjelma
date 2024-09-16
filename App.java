@@ -22,7 +22,7 @@ public class App {
 
             if (ika == 65) {
 
-                System.out.println("Hyviä eläkepäiviä");
+                System.out.println("Hauskoja eläkepäiviä");
             }
 
         } else {
